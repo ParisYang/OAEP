@@ -3,7 +3,7 @@ OAEP
 
 A Java implementation of optimal asymmetric encryption padding, to be used in conjunction with RSA. Also includes an MGF1 implementation.
 
-This is a public domain project so do with it as you will. I make no warranties about this project. NO RIGHTS RESERVED! Please report issues though so I can fix them.
+No rights reserved. I make no warranties about this project.
 
 Current Usage
 ====
